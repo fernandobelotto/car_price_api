@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "@nestjs/apollo": "^10.1.6",
-    "@nestjs/common": "^9.0.0",
+    "@nestjs/common": "^10.4.16",
     "@nestjs/core": "^9.0.0",
     "@nestjs/graphql": "^10.1.6",
-    "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/platform-express": "^10.4.19",
     "@nestjs/typeorm": "^9.0.1",
     "@types/cookie-session": "^2.0.44",
     "apollo-server-express": "^3.11.1",
@@ -36,7 +36,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "sqlite3": "^5.1.2",
+    "sqlite3": "^5.1.7",
     "typeorm": "^0.3.11"
   },
   "devDependencies": {
